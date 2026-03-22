@@ -19,8 +19,3 @@ A simple C++ project that:
 - Vector (Dynamic Array)
 - Menu-driven system
 
-## How to Run
-1. Compile:
-   g++ main.cpp -o main
-2. Run:
-   ./main
