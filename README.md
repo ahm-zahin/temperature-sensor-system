@@ -1,5 +1,10 @@
+## Note
+This project uses user-provided input to simulate temperature sensor data.
+It demonstrates data logging and analysis logic in C++, similar to real sensor based systems.
+
 # temperature-sensor-system
 C++ temperature data logging and analysis system using file I/O and OOP
+
 # Temperature Sensor System (C++)
 
 A simple C++ project that:
